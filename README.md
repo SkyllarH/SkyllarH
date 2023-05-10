@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @SkyllarH
-- 👀 I’m interested in Apple Homekit
-- 🌱 I’m currently learning Python/C/C++/Java/MySql
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- @SkyllarH
+- Using Apple Homekit
+- Learning Python/C/C++/Java/MySql
+- Just entering 3D Printing with Voron 2.4 
 
 <!---
 SkyllarH/SkyllarH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
